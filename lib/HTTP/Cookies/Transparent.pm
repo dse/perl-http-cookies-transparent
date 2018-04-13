@@ -151,7 +151,7 @@ Darren Embry, C<dse at webonastick dot com>.
 
 =head1 COPYRIGHT AND LICENSE
 
-Copyright (C) 2004-2007 by Darren Embry.
+Copyright (c) 2018 by Darren Embry.
 
 This library is free software; you can redistribute it and/or modify
 it under the same terms as Perl itself, either Perl version 5.8.4 or,
